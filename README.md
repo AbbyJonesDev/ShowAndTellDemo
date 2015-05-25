@@ -13,3 +13,4 @@ This version of the site will be mobile-first.  In fact, it will be mobile only.
 ## Process:
 - [Planning Phase](https://github.com/AbbyJonesDev/ShowAndTellDemo/tree/master/process_docs)
 - [Skeleton Files](https://github.com/AbbyJonesDev/ShowAndTellDemo/tree/20464040f5200e49eb4d1cb82cfb3e4d4b944604)
+- [HTML Only](https://github.com/AbbyJonesDev/ShowAndTellDemo/tree/html-only)
